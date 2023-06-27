@@ -1,0 +1,26 @@
+.formulario{
+   background-color: rgb(255, 255, 255);
+   box-sizing: border-box;
+   border: red;
+   height: 90%vh;
+   width: 40%vh;
+   
+}
+.titulo{
+    margin-left: 35%;
+}
+input{
+    margin-left: 35%;
+}
+.numero{
+    margin-left: 35%;
+}
+.nome{
+    margin-left: 35%;
+}
+.cnpj{
+    margin-left: 35%;
+}
+.btn{
+    margin-left: 38%;
+}

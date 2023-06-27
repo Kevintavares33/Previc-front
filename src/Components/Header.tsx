@@ -10,16 +10,12 @@ export const Header = () => {
                 <a href='#'>
                 Inicio
                 </a>
-
                 <a href='#'>
                 Sobre
                 </a>
-
-                <a href='#'>
+               <a href='#'>
                 Cadastrar
                 </a>
-
-           
             </li>
         </ul>
 
