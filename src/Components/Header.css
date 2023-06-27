@@ -1,0 +1,28 @@
+.cabeçalho{
+    display: flex;
+    color:rgb(253, 253, 253);
+    font-size: x-large;
+    background-color: #155bcb;
+    justify-content: space-between;
+
+    
+}
+ul li{
+    list-style: none;
+   align-content: flex-end;
+    margin-right: 15px;
+    color: rgb(64, 66, 66) ;
+    margin-left: 10px;
+}
+li{
+    align-items: center;
+    color: rgb(64, 66, 66) ;
+ 
+}
+a {
+    text-decoration: none;
+    text-transform: none;
+    color: rgb(253, 253, 253) ;
+    margin-left: 10px;
+    
+}
